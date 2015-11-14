@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="{% static 'login/myinfo_parent.css' %}" />
 </head> 
 <body>
-<!--this third change-->
+<!--this third change in B3-->
 <div id = "Container">
 <div id = "Logo"><center><font size="8" color="black">家教辅助系统</center></font></center>
 <div class = "logininfo">欢迎您，{{username}}!
