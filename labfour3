@@ -4,6 +4,7 @@
   <title>Logout</title>
 </head>
 <body>
+<!--this first change is for R11 in C4-->
 <form method = "post">
 <center>
 <p style = "margin-top:250px;font-size:50px;">你真的要退出吗？<br />
