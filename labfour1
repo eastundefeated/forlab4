@@ -9,12 +9,6 @@
   <section class="container">
     <div class="login">
       <h1><center>用户登录</center></h1>
-<!--
-	<ul>
-		<font color = "red" size = "4"><li>{{errors.username}}{{form.username.errors}}</li></font>
-		<font color = "red" size = "4"><li>{{errors.password}}{{form.password.errors}}</li></font>
-	</ul>
--->
 	{% if errors %}
 	{{errors}}
 	{% endif %}
